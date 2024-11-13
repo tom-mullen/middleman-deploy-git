@@ -102,8 +102,4 @@ $ rake deploy:production
 
 # Credits
 
-This gem is based on the great work done on the original [middleman-deploy](https://github.com/karlfreeman/middleman-deploy/).
-
-Inspiration:
-
-The main inspiration for this gem was the approach taken by DHH in [kamal-skiff](https://github.com/basecamp/kamal-skiff).
+This gem is based on the great work done on the original: [middleman-deploy](https://github.com/karlfreeman/middleman-deploy/).
